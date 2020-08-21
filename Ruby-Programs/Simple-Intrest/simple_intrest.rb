@@ -1,4 +1,4 @@
-puts "------------we are calculating simple intrest--------------"
+puts "------------we are calculating simple intrest-------------"
 puts "Enter the value for Principal"
 principal = gets.to_i
 puts "Enter the value for time"

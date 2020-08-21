@@ -1,4 +1,4 @@
-puts "Add two values"
+puts "------------Add two values------------"
 puts "Enter the value for a to add"
 a = gets.to_i # to get the value from the user and we can store the value in variable a
 puts "Enter the value for b to add"
